@@ -40,7 +40,7 @@
 
 1. **Скачайте и дайте права на выполнение**:
    ```bash
-   curl -O https://raw.githubusercontent.com/yourusername/yourrepository/main/devops_installer.sh
+   curl -O https://github.com/soverxpro/DevOps-Installer/blob/main/devops_installer.sh
    chmod +x devops_installer.sh
    ```
 
