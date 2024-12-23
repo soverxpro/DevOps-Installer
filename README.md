@@ -22,16 +22,16 @@
 Загрузите скрипт `install.sh` на вашу Linux машину с помощью `wget` или `curl`:
 
 ```bash
-wget [https://raw.githubusercontent.com/soverxpro/DevOps-Installer/main/install.sh](https://raw.githubusercontent.com/soverxpro/DevOps-Installer/main/install.sh)
+wget https://raw.githubusercontent.com/soverxpro/DevOps-Installer/main/install.sh
 ````
 
 или
 
 ```bash
-curl -O [https://raw.githubusercontent.com/soverxpro/DevOps-Installer/main/install.sh](https://raw.githubusercontent.com/soverxpro/DevOps-Installer/main/install.sh)
+curl -O https://raw.githubusercontent.com/soverxpro/DevOps-Installer/main/install.sh
 ```
 
-### 2\. Установка прав на исполнение
+### 2. Установка прав на исполнение
 
 Предоставьте скрипту права на исполнение:
 
